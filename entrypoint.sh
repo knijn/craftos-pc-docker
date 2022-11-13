@@ -1,0 +1,1 @@
+craftos-pc --start-dir "/main/" --script "start.lua" --headless
